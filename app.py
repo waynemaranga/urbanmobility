@@ -7,11 +7,15 @@ from folium.plugins import Draw
 from streamlit_folium import st_folium
 from modules.vehicleday import Trip, TotalTrip, Parking
 import random
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta  # FIXME
 from modules.at_sms import SMS
 from modules.levy import generate_driver_levy_info, generate_carbon_levy_info
+from populate import populate_db, create_dataframe, input_db, output_db
 
 st.set_page_config(page_icon="🚗", page_title="Urban&Mobile", layout="centered")
+# -- Populate the database --
+
+populate_db(input_db, output_db)  # FIXME : HOTFIX
 
 # -- Title --
 st.title("Urban&Mobile: urbanmobility.streamlit.app")
