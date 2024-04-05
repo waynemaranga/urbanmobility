@@ -1,0 +1,9 @@
+africastalking>=1.2.5
+python-dotenv>=1.0.0
+streamlit>=1.32.2
+streamlit-folium==0.18.0
+openai>=1.13.0
+pandas>=2.0.0
+requests>=2.30.0
+folium==0.16.0
+tqdm>=4.66.0
