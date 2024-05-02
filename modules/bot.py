@@ -5,8 +5,8 @@ from os import getenv
 from streamlit import secrets
 
 load_dotenv()
-OPENAI_API_KEY = getenv("OPENAI_API_KEY")  # for local
-# OPENAI_API_KEY = secrets["OPENAI_API_KEY"]  # for both local and deployed (Streamlit Cloud) # fmt: skip
+# OPENAI_API_KEY = getenv("OPENAI_API_KEY")  # for local
+OPENAI_API_KEY = secrets["OPENAI_API_KEY"]  # for both local and deployed (Streamlit Cloud) # fmt: skip
 
 
 class Bot:
