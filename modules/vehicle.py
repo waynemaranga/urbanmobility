@@ -4,12 +4,15 @@ import random
 from modules.vehicleday import Trip, TotalTrip, Parking
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
+import os
 from os import getenv
 from streamlit import secrets
 
 load_dotenv()
 LIQUID_API_KEY = getenv("LIQUID_API_KEY")  # for local
 # LIQUID_API_KEY = secrets["LIQUID_API_KEY"]  # both local and cloud deployment
+
+vehicle_database_file = os.getcwd() + "/data/vehicle_database.json"
 
 
 class Vehicle:
@@ -40,34 +43,34 @@ class Vehicle:
         self.total_trip = []
         self.parking_data = []
 
-    def get_info(self, registration_number):
-        url = "http://vesapi.liquid.tech:8010/vehicle-enquiry/v1/vehicles"
-        headers = {"x-api-key": LIQUID_API_KEY, "Content-Type": "application/json"}
-        payload = json.dumps({"registrationNumber": registration_number})
-
-        response = requests.request("POST", url, headers=headers, data=payload)
-
-        if response.status_code == 200:
-            api_data = json.loads(response.text)
-            self.__init__(api_data)  # Update the Vehicle object with the new data
-            return self
-        else:
-            print(f"Error: {response.status_code} - {response.text}")
-            return None
-
     # def get_info(self, registration_number):
-    #     with open("vehicle_database.json", "r") as file:
-    #         database = json.load(file)
+    #     url = "http://vesapi.liquid.tech:8010/vehicle-enquiry/v1/vehicles"
+    #     headers = {"x-api-key": LIQUID_API_KEY, "Content-Type": "application/json"}
+    #     payload = json.dumps({"registrationNumber": registration_number})
 
-    #     vehicle_data = database.get(registration_number)
-    #     if vehicle_data:
-    #         self.__init__(vehicle_data)  # Update the Vehicle object with the new data
+    #     response = requests.request("POST", url, headers=headers, data=payload)
+
+    #     if response.status_code == 200:
+    #         api_data = json.loads(response.text)
+    #         self.__init__(api_data)  # Update the Vehicle object with the new data
     #         return self
     #     else:
-    #         print(
-    #             f"Error: Vehicle with registration number {registration_number} not found in the database."
-    #         )
+    #         print(f"Error: {response.status_code} - {response.text}")
     #         return None
+
+    def get_info(self, registration_number):
+        with open(vehicle_database_file, "r") as file:
+            database = json.load(file)
+
+        vehicle_data = database.get(registration_number)
+        if vehicle_data:
+            self.__init__(vehicle_data)  # Update the Vehicle object with the new data
+            return self
+        else:
+            print(
+                f"Error: Vehicle with registration number {registration_number} not found in the database."
+            )
+            return None
 
     def generate_random_trip_data(self):
         # Generate random trip data for the vehicle
