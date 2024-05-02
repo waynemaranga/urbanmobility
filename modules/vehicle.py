@@ -20,7 +20,7 @@ class Vehicle:
         self.registration_number = api_data.get("registration_number")
         self.art_end_date = api_data.get("art_end_date")
         self.co2_emissions = api_data.get("co2_emissions")
-        self.capacity = api_data.get("capacity")
+        self.capacity = api_data.get("engine_capacity")
         self.euro_status = api_data.get("euro_status")
         self.marked_for_export = api_data.get("marked_for_export")
         self.fuel_type = api_data.get("fuel_type")

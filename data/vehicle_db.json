@@ -2,7 +2,7 @@
   "KAA051O": {
     "registration_number": "KAA051O",
     "make": "VOLKSWAGEN",
-    "engine_capacity": null,
+    "engine_capacity": 489,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 2006,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -23,7 +23,7 @@
   "KAA379O": {
     "registration_number": "KAA379O",
     "make": "BMW",
-    "engine_capacity": null,
+    "engine_capacity": 86,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1988,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -44,7 +44,7 @@
   "KAA433Z": {
     "registration_number": "KAA433Z",
     "make": "VOLKSWAGEN",
-    "engine_capacity": null,
+    "engine_capacity": 397,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 1996,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -65,7 +65,7 @@
   "KAA462T": {
     "registration_number": "KAA462T",
     "make": "HYUNDAI",
-    "engine_capacity": null,
+    "engine_capacity": 43,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 1996,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -86,7 +86,7 @@
   "KAA644N": {
     "registration_number": "KAA644N",
     "make": "MERCEDES-BENZ",
-    "engine_capacity": null,
+    "engine_capacity": 391,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1981,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -107,7 +107,7 @@
   "KAA764X": {
     "registration_number": "KAA764X",
     "make": "HONDA",
-    "engine_capacity": null,
+    "engine_capacity": 400,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 1989,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -128,7 +128,7 @@
   "KAA782V": {
     "registration_number": "KAA782V",
     "make": "HYUNDAI",
-    "engine_capacity": null,
+    "engine_capacity": 667,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1983,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -149,7 +149,7 @@
   "KAA852S": {
     "registration_number": "KAA852S",
     "make": "NISSAN",
-    "engine_capacity": null,
+    "engine_capacity": 45,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 1994,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -170,7 +170,7 @@
   "KAB500V": {
     "registration_number": "KAB500V",
     "make": "TOYOTA RAV4",
-    "engine_capacity": null,
+    "engine_capacity": 1200,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 2005,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -191,7 +191,7 @@
   "KAY023W": {
     "registration_number": "KAY023W",
     "make": "BMW",
-    "engine_capacity": null,
+    "engine_capacity": 2400,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -212,7 +212,7 @@
   "KBA005W": {
     "registration_number": "KBA005W",
     "make": "NISSAN",
-    "engine_capacity": null,
+    "engine_capacity": 315,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1980,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -233,7 +233,7 @@
   "KBA013K": {
     "registration_number": "KBA013K",
     "make": "CHEVROLET",
-    "engine_capacity": null,
+    "engine_capacity": 871,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1997,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -254,7 +254,7 @@
   "KBA089K": {
     "registration_number": "KBA089K",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 176,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 1998,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -275,7 +275,7 @@
   "KBA127Q": {
     "registration_number": "KBA127Q",
     "make": "BMW",
-    "engine_capacity": null,
+    "engine_capacity": 554,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 1996,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -296,7 +296,7 @@
   "KBA157B": {
     "registration_number": "KBA157B",
     "make": "BMW",
-    "engine_capacity": null,
+    "engine_capacity": 51,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2023,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -317,7 +317,7 @@
   "KBA186S": {
     "registration_number": "KBA186S",
     "make": "NISSAN",
-    "engine_capacity": null,
+    "engine_capacity": 671,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1982,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -338,7 +338,7 @@
   "KBA226A": {
     "registration_number": "KBA226A",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 8,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1988,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -359,7 +359,7 @@
   "KBA279B": {
     "registration_number": "KBA279B",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 819,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1993,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -380,7 +380,7 @@
   "KBA304E": {
     "registration_number": "KBA304E",
     "make": "VOLKSWAGEN",
-    "engine_capacity": null,
+    "engine_capacity": 396,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1987,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -401,7 +401,7 @@
   "KBA346K": {
     "registration_number": "KBA346K",
     "make": "BMW",
-    "engine_capacity": null,
+    "engine_capacity": 853,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1995,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -422,7 +422,7 @@
   "KBA485F": {
     "registration_number": "KBA485F",
     "make": "HONDA",
-    "engine_capacity": null,
+    "engine_capacity": 356,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1993,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -443,7 +443,7 @@
   "KBA546D": {
     "registration_number": "KBA546D",
     "make": "HYUNDAI",
-    "engine_capacity": null,
+    "engine_capacity": 893,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 2007,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -464,7 +464,7 @@
   "KBA571U": {
     "registration_number": "KBA571U",
     "make": "MERCEDES-BENZ",
-    "engine_capacity": null,
+    "engine_capacity": 480,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 2022,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -485,7 +485,7 @@
   "KBA572Y": {
     "registration_number": "KBA572Y",
     "make": "CHEVROLET",
-    "engine_capacity": null,
+    "engine_capacity": 335,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2010,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -506,7 +506,7 @@
   "KBA686P": {
     "registration_number": "KBA686P",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 181,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 1981,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -527,7 +527,7 @@
   "KBA742B": {
     "registration_number": "KBA742B",
     "make": "HONDA",
-    "engine_capacity": null,
+    "engine_capacity": 884,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2017,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -548,7 +548,7 @@
   "KBA806Z": {
     "registration_number": "KBA806Z",
     "make": "CHEVROLET",
-    "engine_capacity": null,
+    "engine_capacity": 3,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2000,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -569,7 +569,7 @@
   "KBA899T": {
     "registration_number": "KBA899T",
     "make": "BMW",
-    "engine_capacity": null,
+    "engine_capacity": 835,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 2020,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -590,7 +590,7 @@
   "KBA922Q": {
     "registration_number": "KBA922Q",
     "make": "FORD",
-    "engine_capacity": null,
+    "engine_capacity": 660,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2013,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -611,7 +611,7 @@
   "KBG178R": {
     "registration_number": "KBG178R",
     "make": "TUK-TUK",
-    "engine_capacity": null,
+    "engine_capacity": 200,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2004,
     "wheelplan": "1 AXLE RIGID BODY",
@@ -632,7 +632,7 @@
   "KBJ894H": {
     "registration_number": "KBJ894H",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2304,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -653,7 +653,7 @@
   "KBM957Z": {
     "registration_number": "KBM957Z",
     "make": "SUZUKI",
-    "engine_capacity": null,
+    "engine_capacity": 2418,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -674,7 +674,7 @@
   "KBN690T": {
     "registration_number": "KBN690T",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2292,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -695,7 +695,7 @@
   "KBQ805S": {
     "registration_number": "KBQ805S",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2734,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -716,7 +716,7 @@
   "KBQ848C": {
     "registration_number": "KBQ848C",
     "make": "MITSUBUSHI",
-    "engine_capacity": null,
+    "engine_capacity": 2388,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -737,7 +737,7 @@
   "KBR695P": {
     "registration_number": "KBR695P",
     "make": "ISUZU",
-    "engine_capacity": null,
+    "engine_capacity": 2314,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -758,7 +758,7 @@
   "KBW388H": {
     "registration_number": "KBW388H",
     "make": "NISSAN",
-    "engine_capacity": null,
+    "engine_capacity": 2382,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -779,7 +779,7 @@
   "KBX197P": {
     "registration_number": "KBX197P",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2402,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -800,7 +800,7 @@
   "KBX354F": {
     "registration_number": "KBX354F",
     "make": "SUZUKI",
-    "engine_capacity": null,
+    "engine_capacity": 2422,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -821,7 +821,7 @@
   "KBY242N": {
     "registration_number": "KBY242N",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2290,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -842,7 +842,7 @@
   "KCA104D": {
     "registration_number": "KCA104D",
     "make": "FORD",
-    "engine_capacity": null,
+    "engine_capacity": 344,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 2008,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -863,7 +863,7 @@
   "KCA157H": {
     "registration_number": "KCA157H",
     "make": "BMW",
-    "engine_capacity": null,
+    "engine_capacity": 616,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1996,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -884,7 +884,7 @@
   "KCA445W": {
     "registration_number": "KCA445W",
     "make": "FORD",
-    "engine_capacity": null,
+    "engine_capacity": 818,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -905,7 +905,7 @@
   "KCA486M": {
     "registration_number": "KCA486M",
     "make": "NISSAN",
-    "engine_capacity": null,
+    "engine_capacity": 274,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2017,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -926,7 +926,7 @@
   "KCA633B": {
     "registration_number": "KCA633B",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 923,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1982,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -947,7 +947,7 @@
   "KCA636M": {
     "registration_number": "KCA636M",
     "make": "AUDI",
-    "engine_capacity": null,
+    "engine_capacity": 334,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1983,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -968,7 +968,7 @@
   "KCA738P": {
     "registration_number": "KCA738P",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 667,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1987,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -989,7 +989,7 @@
   "KCA882P": {
     "registration_number": "KCA882P",
     "make": "HONDA",
-    "engine_capacity": null,
+    "engine_capacity": 137,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 2017,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1010,7 +1010,7 @@
   "KCA964Y": {
     "registration_number": "KCA964Y",
     "make": "HYUNDAI",
-    "engine_capacity": null,
+    "engine_capacity": 354,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 1980,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1031,7 +1031,7 @@
   "KCC260J": {
     "registration_number": "KCC260J",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2408,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1052,7 +1052,7 @@
   "KCC395W": {
     "registration_number": "KCC395W",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2412,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1073,7 +1073,7 @@
   "KCF142V": {
     "registration_number": "KCF142V",
     "make": "MAZDA",
-    "engine_capacity": null,
+    "engine_capacity": 2416,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1094,7 +1094,7 @@
   "KCG108T": {
     "registration_number": "KCG108T",
     "make": "SUBARU",
-    "engine_capacity": null,
+    "engine_capacity": 2306,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1115,7 +1115,7 @@
   "KCG528W": {
     "registration_number": "KCG528W",
     "make": "ISUZU",
-    "engine_capacity": null,
+    "engine_capacity": 2730,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1136,7 +1136,7 @@
   "KCG900V": {
     "registration_number": "KCG900V",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2000,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1157,7 +1157,7 @@
   "KCG967T": {
     "registration_number": "KCG967T",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2426,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1178,7 +1178,7 @@
   "KCH003S": {
     "registration_number": "KCH003S",
     "make": "MITSUBUSHI",
-    "engine_capacity": null,
+    "engine_capacity": 2394,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1199,7 +1199,7 @@
   "KCH019Z": {
     "registration_number": "KCH019Z",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2310,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1220,7 +1220,7 @@
   "KCH096Z": {
     "registration_number": "KCH096Z",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2390,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1241,7 +1241,7 @@
   "KCJ674A": {
     "registration_number": "KCJ674A",
     "make": "CHEVROLET",
-    "engine_capacity": null,
+    "engine_capacity": 2732,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1262,7 +1262,7 @@
   "KCK985E": {
     "registration_number": "KCK985E",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2738,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1283,7 +1283,7 @@
   "KCL363D": {
     "registration_number": "KCL363D",
     "make": "TOYOTA-LAND-CRUISER-PRADO",
-    "engine_capacity": null,
+    "engine_capacity": 3000,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 2012,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1304,7 +1304,7 @@
   "KCM536X": {
     "registration_number": "KCM536X",
     "make": "HONDA",
-    "engine_capacity": null,
+    "engine_capacity": 2300,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1325,7 +1325,7 @@
   "KCN068H": {
     "registration_number": "KCN068H",
     "make": "HONDA",
-    "engine_capacity": null,
+    "engine_capacity": 2286,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1346,7 +1346,7 @@
   "KCN140V": {
     "registration_number": "KCN140V",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2384,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1367,7 +1367,7 @@
   "KCN854Y": {
     "registration_number": "KCN854Y",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2414,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1388,7 +1388,7 @@
   "KCP938J": {
     "registration_number": "KCP938J",
     "make": "TOYOTA-LAND-CRUISER",
-    "engine_capacity": null,
+    "engine_capacity": 3000,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 2012,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1409,7 +1409,7 @@
   "KCQ910T": {
     "registration_number": "KCQ910T",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2432,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1430,7 +1430,7 @@
   "KCR476H": {
     "registration_number": "KCR476H",
     "make": "NISSAN",
-    "engine_capacity": null,
+    "engine_capacity": 2392,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1451,7 +1451,7 @@
   "KCR588V": {
     "registration_number": "KCR588V",
     "make": "NISSAN",
-    "engine_capacity": null,
+    "engine_capacity": 2434,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1472,7 +1472,7 @@
   "KCR942T": {
     "registration_number": "KCR942T",
     "make": "NISSAN",
-    "engine_capacity": null,
+    "engine_capacity": 2284,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1493,7 +1493,7 @@
   "KCR999G": {
     "registration_number": "KCR999G",
     "make": "FORD",
-    "engine_capacity": null,
+    "engine_capacity": 2288,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1514,7 +1514,7 @@
   "KCS439V": {
     "registration_number": "KCS439V",
     "make": "TOYOTA-AXIO",
-    "engine_capacity": null,
+    "engine_capacity": 1500,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2006,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1535,7 +1535,7 @@
   "KCS505X": {
     "registration_number": "KCS505X",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2294,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1556,7 +1556,7 @@
   "KCT420Q": {
     "registration_number": "KCT420Q",
     "make": "MAZDA",
-    "engine_capacity": null,
+    "engine_capacity": 2420,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1577,7 +1577,7 @@
   "KCU815E": {
     "registration_number": "KCU815E",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2736,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1598,7 +1598,7 @@
   "KCU851F": {
     "registration_number": "KCU851F",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2000,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1619,7 +1619,7 @@
   "KCV691R": {
     "registration_number": "KCV691R",
     "make": "JAGUAR",
-    "engine_capacity": null,
+    "engine_capacity": 2406,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1640,7 +1640,7 @@
   "KCX522F": {
     "registration_number": "KCX522F",
     "make": "BMW",
-    "engine_capacity": null,
+    "engine_capacity": 2396,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1661,7 +1661,7 @@
   "KCX659Z": {
     "registration_number": "KCX659Z",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2430,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1682,7 +1682,7 @@
   "KCZ156E": {
     "registration_number": "KCZ156E",
     "make": "VW",
-    "engine_capacity": null,
+    "engine_capacity": 2302,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1703,7 +1703,7 @@
   "KDA004D": {
     "registration_number": "KDA004D",
     "make": "VOLKSWAGEN",
-    "engine_capacity": null,
+    "engine_capacity": 152,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2017,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1724,7 +1724,7 @@
   "KDA060J": {
     "registration_number": "KDA060J",
     "make": "VOLKSWAGEN",
-    "engine_capacity": null,
+    "engine_capacity": 526,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 1999,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1745,7 +1745,7 @@
   "KDA110A": {
     "registration_number": "KDA110A",
     "make": "CHEVROLET",
-    "engine_capacity": null,
+    "engine_capacity": 600,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 2011,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1766,7 +1766,7 @@
   "KDA142E": {
     "registration_number": "KDA142E",
     "make": "HYUNDAI",
-    "engine_capacity": null,
+    "engine_capacity": 293,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2016,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1787,7 +1787,7 @@
   "KDA216A": {
     "registration_number": "KDA216A",
     "make": "HYUNDAI",
-    "engine_capacity": null,
+    "engine_capacity": 894,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1987,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1808,7 +1808,7 @@
   "KDA363N": {
     "registration_number": "KDA363N",
     "make": "HYUNDAI",
-    "engine_capacity": null,
+    "engine_capacity": 59,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 2004,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1829,7 +1829,7 @@
   "KDA397O": {
     "registration_number": "KDA397O",
     "make": "AUDI",
-    "engine_capacity": null,
+    "engine_capacity": 499,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1993,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1850,7 +1850,7 @@
   "KDA419W": {
     "registration_number": "KDA419W",
     "make": "VOLKSWAGEN",
-    "engine_capacity": null,
+    "engine_capacity": 745,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 2020,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1871,7 +1871,7 @@
   "KDA472T": {
     "registration_number": "KDA472T",
     "make": "NISSAN",
-    "engine_capacity": null,
+    "engine_capacity": 447,
     "fuel_type": "DIESEL",
     "year_of_manufacture": 2018,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1892,7 +1892,7 @@
   "KDA488H": {
     "registration_number": "KDA488H",
     "make": "NISSAN",
-    "engine_capacity": null,
+    "engine_capacity": 492,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2014,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1913,7 +1913,7 @@
   "KDA631Y": {
     "registration_number": "KDA631Y",
     "make": "NISSAN",
-    "engine_capacity": null,
+    "engine_capacity": 880,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2001,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1934,7 +1934,7 @@
   "KDA681G": {
     "registration_number": "KDA681G",
     "make": "HYUNDAI",
-    "engine_capacity": null,
+    "engine_capacity": 695,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2014,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1955,7 +1955,7 @@
   "KDA770E": {
     "registration_number": "KDA770E",
     "make": "VOLKSWAGEN",
-    "engine_capacity": null,
+    "engine_capacity": 801,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1980,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1976,7 +1976,7 @@
   "KDA904U": {
     "registration_number": "KDA904U",
     "make": "HONDA",
-    "engine_capacity": null,
+    "engine_capacity": 491,
     "fuel_type": "PETROL",
     "year_of_manufacture": 1999,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -1997,7 +1997,7 @@
   "KDC544S": {
     "registration_number": "KDC544S",
     "make": "VW",
-    "engine_capacity": null,
+    "engine_capacity": 2386,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -2018,7 +2018,7 @@
   "KDH315E": {
     "registration_number": "KDH315E",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2298,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -2039,7 +2039,7 @@
   "KDJ532B": {
     "registration_number": "KDJ532B",
     "make": "SUZUKI",
-    "engine_capacity": null,
+    "engine_capacity": 2296,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -2060,7 +2060,7 @@
   "KDJ971W": {
     "registration_number": "KDJ971W",
     "make": "SUBARU",
-    "engine_capacity": null,
+    "engine_capacity": 2428,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -2081,7 +2081,7 @@
   "KDK866X": {
     "registration_number": "KDK866X",
     "make": "MAZDA",
-    "engine_capacity": null,
+    "engine_capacity": 2380,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -2102,7 +2102,7 @@
   "KDL194E": {
     "registration_number": "KDL194E",
     "make": "LAND ROVER",
-    "engine_capacity": null,
+    "engine_capacity": 3000,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -2123,7 +2123,7 @@
   "KDM331E": {
     "registration_number": "KDM331E",
     "make": "PEUGOT",
-    "engine_capacity": null,
+    "engine_capacity": 2410,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -2144,7 +2144,7 @@
   "KDM764W": {
     "registration_number": "KDM764W",
     "make": "TOYOTA",
-    "engine_capacity": null,
+    "engine_capacity": 2398,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
@@ -2165,7 +2165,7 @@
   "KDN224N": {
     "registration_number": "KDN224N",
     "make": "ISUZU",
-    "engine_capacity": null,
+    "engine_capacity": 2312,
     "fuel_type": "PETROL",
     "year_of_manufacture": 2019,
     "wheelplan": "2 AXLE RIGID BODY",
